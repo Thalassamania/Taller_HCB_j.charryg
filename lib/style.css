@@ -1,0 +1,42 @@
+/* Add your styles here */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+.introduccion {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  text-align: center;
+  border-color:rgb(239, 73, 47);
+  border-style : solid;
+}
+
+.divisiones{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.col-duelLinks{
+
+  text-align: center;
+  border-color:rgb(239, 73, 47);
+  border-style : solid;
+}
+
+.col-tradingCardGames{
+  text-align: center;
+  border-color:rgb(239, 73, 47);
+  border-style : solid;
+}
+
+.col-linksInteres{
+  text-align: center;
+  border-color:rgb(239, 73, 47);
+  border-style : solid;
+}
